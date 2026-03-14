@@ -1,0 +1,17 @@
+SilvioLinux License
+
+Copyright (C) 2028
+Sílvio Ramalho Neto da Silva
+
+Este software é fornecido "como está", sem garantias.
+
+É permitido:
+
+- usar
+- modificar
+- redistribuir
+
+desde que o autor original seja creditado.
+
+Autor:
+Sílvio Ramalho Neto da Silva
