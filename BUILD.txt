@@ -1,0 +1,10 @@
+Build do SilvioLinux
+
+1. Instalar dependências
+2. Clonar Yocto Project
+3. Inicializar ambiente
+4. Compilar imagem
+
+Comando principal:
+
+bitbake silviolinux-image
